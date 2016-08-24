@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#f5f5f5</color>
+    <color name="base_nav_bg">#f3f3f3</color>
+    <color name="default_text_color">#313131</color>
+    <color name="nav_default_text_color">#313131</color>
+    <color name="nav_skin_text_color">#e8ffffff</color>
+    <color name="nav_second_image_text_color">#8c8e8c</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_background">#50000000</color>
+    <color name="translucent_background9">#C0000000</color>
+    <color name="tab_strip_line">#0274d4</color>
+    <color name="tab_strip_underline">#c9c9c9</color>
+    <color name="tab_text_default">#565656</color>
+    <color name="newspic_list_item_select">#50000000</color>
+    <color name="actionbar_up_press">#dbdbdb</color>
+    <color name="base_line_bg">#dfe3e7</color>
+
+    <color name="item_press">#e9eaec</color>
+
+</resources>
